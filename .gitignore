@@ -131,4 +131,6 @@ dmypy.json
 .idea/
 test.py
 __pycache__
+.DS_Store
+
 
